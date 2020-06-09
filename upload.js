@@ -25,7 +25,7 @@ const testFunctionUpload = async (data) => {
   }
 }
 
-const filePath = path.join(__dirname, '../README.md');
+const filePath = path.join(__dirname, 'README.md');
 
 fs.readFile(filePath, (err, data) => {
   if(!err) {
