@@ -1,0 +1,19 @@
+{
+  "name": "storage-js-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "get-file-from-hash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamueleA/storage-js-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamueleA/storage-js-testing/issues"
+  },
+  "homepage": "https://github.com/SamueleA/storage-js-testing#readme"
+}
