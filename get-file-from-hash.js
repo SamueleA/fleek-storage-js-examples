@@ -1,5 +1,5 @@
 // For testing the functions locally
-const fleek = require('../index');   
+const fleek = require('fleek-storage-js');   
 
 const hash = process.argv[2];
 
