@@ -4,7 +4,7 @@ const fleek = require('fleek-storage-js');
 const apiKey = process.env.FLEEK_API_KEY;
 const apiSecret = process.env.FLEEK_API_SECRET;
 
-const testFunctionListBuckets = async () => {
+const testFunctionListFiles = async () => {
   const input = {
     apiKey,
     apiSecret,
@@ -18,4 +18,4 @@ const testFunctionListBuckets = async () => {
   }
 }
 
-testFunctionListBuckets();
+testFunctionListFiles();
