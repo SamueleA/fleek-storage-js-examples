@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SamueleA/storage-js-testing/issues"
   },
-  "homepage": "https://github.com/SamueleA/storage-js-testing#readme"
+  "homepage": "https://github.com/SamueleA/storage-js-testing#readme",
+  "dependencies": {
+    "@fleekhq/fleek-storage-js": "^1.0.0"
+  }
 }

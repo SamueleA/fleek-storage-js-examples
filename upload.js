@@ -1,7 +1,7 @@
 // For testing the functions locally
 const fs = require('fs');
 const path = require('path');
-const fleek = require('fleek-storage-js');   
+const fleek = require('@fleekhq/fleek-storage-js');   
 
 const apiKey = process.env.FLEEK_API_KEY;
 const apiSecret = process.env.FLEEK_API_SECRET;
