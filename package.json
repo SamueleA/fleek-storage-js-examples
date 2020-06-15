@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/SamueleA/storage-js-testing#readme",
   "dependencies": {
-    "@fleekhq/fleek-storage-js": "^1.0.0"
+    "@fleekhq/fleek-storage-js": "^1.0.1"
   }
 }

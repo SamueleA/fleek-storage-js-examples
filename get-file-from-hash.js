@@ -1,4 +1,3 @@
-// For testing the functions locally
 const fleek = require('@fleekhq/fleek-storage-js');   
 
 const hash = process.argv[2];

@@ -1,4 +1,3 @@
-// For testing the functions locally
 const fleek = require('@fleekhq/fleek-storage-js');   
 
 const apiKey = process.env.FLEEK_API_KEY;

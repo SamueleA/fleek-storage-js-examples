@@ -1,4 +1,3 @@
-// For testing the functions locally
 const fs = require('fs');
 const path = require('path');
 const fleek = require('@fleekhq/fleek-storage-js');   
