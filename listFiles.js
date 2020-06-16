@@ -7,6 +7,12 @@ const testFunctionListFiles = async () => {
   const input = {
     apiKey,
     apiSecret,
+    getOptions: [
+      'bucket',
+      'key',
+      'hash',
+      'publicUrl'
+    ],
   };
 
   try {
